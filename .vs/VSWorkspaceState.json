@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\routes"
   ],
+  "SelectedNode": "\\src\\routes\\Auth.js",
   "PreviewInSolutionExplorer": false
 }
